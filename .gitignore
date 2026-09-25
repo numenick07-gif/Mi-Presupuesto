@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.ipynb_checkpoints/
